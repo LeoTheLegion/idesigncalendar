@@ -15,6 +15,7 @@ function createWindow () {
   // Open the DevTools.
   mainWindow.webContents.openDevTools()
   
+	//Maximize on Start
   mainWindow.maximize();
 
   // Emitted when the window is closed.
