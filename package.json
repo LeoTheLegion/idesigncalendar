@@ -1,5 +1,5 @@
 {
-  "name": "cel_wrike_helper",
+  "name": "idesigncalendar",
   "version": "1.0.0",
   "main": "main.js",
   "scripts": {
@@ -20,7 +20,8 @@
   },
   "homepage": "https://github.com/mmena2017/CEL_Wrike_Helper#readme",
   "devDependencies": {
-    "electron": "^4.0.1"
+    "electron": "^4.0.1",
+    "electron-builder": "^20.28.3"
   },
   "dependencies": {
     "body-parser": "^1.18.3",
